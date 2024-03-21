@@ -1,4 +1,10 @@
-## Creating an AWS infrastructure using Python and the Boto3 library
+# Creating an AWS VPC infrastructure using Python and Boto3 SDK
 
-This repo contains all the files needed to launch an AWS virtual infrastructure using Python. It makes use of the Boto3 library.
+*Work in progress*
 
+This repo contains the Python code needed to launch an AWS VPC. It uses the AWS SDK Boto3.
+
+Necessary tools:
+- AWS account configured to your CLI
+- Python 3
+- Boto3 installed
